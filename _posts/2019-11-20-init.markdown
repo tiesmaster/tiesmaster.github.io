@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Setting up Developer Blog with Jekyll 01: init"
+date: 2019-11-20 23:53:56 +0100
+categories: jekyll setup-dev-blog series
+---
+
+So this is another attempt, of many, to setup a developer blog. I've done this a few times in the past, and the most recent one, was 4 years ago ;) I was using the same system as I'm using now: Jekyll. I don't know exactly why that got stalled, but I do know it wasn't easy to set it up (among other things, themes and shit, but more on that later).
+
+So why am I choosing Jekyll again for setting up a blog? Well, I still think that Jekyll is the way to go for a developer blog: it gives you free hosting with GitHub Pages, and it makes it really easy to add new content to your site (the regular flow you already used to from your daily work, at least it should be).
+
+Next, I've also come to an understanding on what my expectations are for running a developer blog, and how to approach things. You can have a blog for a number of reasons, like a portfolio of your work for future employers, for making the web a better place, but you can also do it because you just want to write something down, for your future self, to find it later and understand how things work. That's at least the incentive for Scott Hanselman to have his blog (I couldn't find a link to where he talks about it like that, but I'm pretty sure he said that, in such a way).
+
+So my intention is to have this blog, and just be able to write down my findings, my research, my braindump. So that also applies to setting up this developer blog. I'm going to have to dig into a lot of this stuff of how Jekyll works, how to setup Google Analytics, get the themes working properly. _Steal_ the layout of other famous developer blogs out there, that I really like.
+
+The idea is to do this so it's clear how I got the blog as it eventually shows up. Not necessarily for others to know how to setup a proper developer blog in Jekyll (but might still be interesting to them), but rather for myself when I look at this again in 3 months, then I most definately won't know anymore how I did all that stuff, and then _changing_ bits here, and there will be a nightmare. In _documenting_ what I really did there, I hope I'll save some time in the future.
+
+So the idea for this blog is not only do this for setting up this blog (obviously), but rather for all the research, and development work that I do, that's only remotely useful to put into "paper" (I got _there_, because of a team check with a co-worker of mine, but I'll write about that later ;).
